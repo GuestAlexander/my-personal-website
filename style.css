@@ -3,11 +3,10 @@ body {
 }
 
 h2 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
     font-style: oblique;
     font-stretch: wider;
     color: blueviolet;
-    font-feature-settings: "akhn";
 }
 
 h3 {
@@ -16,9 +15,4 @@ h3 {
     font-size: x-large;
     font-weight: bolder;
     font-kerning: inherit;
-}
-
-div {
-    color-scheme: initial;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
