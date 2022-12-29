@@ -1,2 +1,2 @@
 # My Personal Website
-Hi, this is my first webpage. 
+Hi, this is my first webpage. Cheers!
