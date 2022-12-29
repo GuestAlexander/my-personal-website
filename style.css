@@ -1,3 +1,24 @@
 body {
     background: orange;
 }
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-stretch: wider;
+    color: blueviolet;
+    font-feature-settings: "akhn";
+}
+
+h3 {
+    font-size: large;
+    color: rgb(226, 43, 104);
+    font-size: x-large;
+    font-weight: bolder;
+    font-kerning: inherit;
+}
+
+div {
+    color-scheme: initial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
